@@ -1,0 +1,17 @@
+
+.firstTitle {
+    text-align: center;
+    color:black;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.text {
+    padding: 20px;
+}
+
+.text_center {
+    text-align: center;
+}
